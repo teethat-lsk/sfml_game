@@ -1,0 +1,71 @@
+﻿  Enemy.cpp
+  Game.cpp
+  GameState.cpp
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(49): error C2259:  'Enemy': cannot instantiate abstract class
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(49): message :  due to following members:
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(49): message :  'void Enemy::render(sf::RenderTarget &)': is abstract
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Enemy.h(21): message :  see declaration of 'Enemy::render'
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(49): message :  'void Enemy::initializeVariables(void)': is abstract
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Enemy.h(7): message :  see declaration of 'Enemy::initializeVariables'
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(49): message :  'void Enemy::initializeAnimations(void)': is abstract
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Enemy.h(8): message :  see declaration of 'Enemy::initializeAnimations'
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(49): message :  'void Enemy::updateAnimation(const float &)': is abstract
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Enemy.h(18): message :  see declaration of 'Enemy::updateAnimation'
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(49): message :  'void Enemy::update(const float &,sf::Vector2f &)': is abstract
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Enemy.h(20): message :  see declaration of 'Enemy::update'
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(49,70): error C2661:  'Enemy::Enemy': no overloaded function takes 3 arguments
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,83): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,83): warning C4244:         with
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,83): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,83): warning C4244:             T=unsigned int
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,83): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,83): warning C4244:         and
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,83): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,83): warning C4244:             T=float
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,83): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,57): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,57): warning C4244:         with
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,57): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,57): warning C4244:             T=unsigned int
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,57): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,57): warning C4244:         and
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,57): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,57): warning C4244:             T=float
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(55,57): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,87): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,87): warning C4244:         with
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,87): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,87): warning C4244:             T=unsigned int
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,87): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,87): warning C4244:         and
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,87): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,87): warning C4244:             T=float
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,87): warning C4244:         ]
+  main.cpp
+  MainMenuState.cpp
+  Skeleton.cpp
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,61): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,61): warning C4244:         with
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,61): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,61): warning C4244:             T=unsigned int
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,61): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,61): warning C4244:         and
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,61): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,61): warning C4244:             T=float
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(56,61): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(12,67): error C2065:  'texture_sheet': undeclared identifier
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(12,99): error C2065:  'texture_sheet': undeclared identifier
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(12,128): error C2660:  'AnimationComponent::addAnimation': function does not take 6 arguments
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\AnimationComponent.h(142,7): message :  see declaration of 'AnimationComponent::addAnimation'
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(14,67): error C2065:  'texture_sheet': undeclared identifier
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(14,99): error C2065:  'texture_sheet': undeclared identifier
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(14,128): error C2660:  'AnimationComponent::addAnimation': function does not take 6 arguments
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\AnimationComponent.h(142,7): message :  see declaration of 'AnimationComponent::addAnimation'
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(16,69): error C2065:  'texture_sheet': undeclared identifier
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(16,101): error C2065:  'texture_sheet': undeclared identifier
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(16,130): error C2660:  'AnimationComponent::addAnimation': function does not take 6 arguments
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\AnimationComponent.h(142,7): message :  see declaration of 'AnimationComponent::addAnimation'
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(55,1): error C2084:  function 'void Skeleton::updateAnimation(const float &)' already has a body
+  State.cpp
+  Generating Code...
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Skeleton.cpp(51): message :  see previous definition of 'updateAnimation'
