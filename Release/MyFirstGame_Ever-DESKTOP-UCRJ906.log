@@ -1,0 +1,57 @@
+﻿  Game.cpp
+  GameState.cpp
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,83): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,83): warning C4244:         with
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,83): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,83): warning C4244:             T=unsigned int
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,83): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,83): warning C4244:         and
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,83): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,83): warning C4244:             T=float
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,83): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,57): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,57): warning C4244:         with
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,57): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,57): warning C4244:             T=unsigned int
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,57): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,57): warning C4244:         and
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,57): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,57): warning C4244:             T=float
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(62,57): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,87): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,87): warning C4244:         with
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,87): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,87): warning C4244:             T=unsigned int
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,87): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,87): warning C4244:         and
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,87): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,87): warning C4244:             T=float
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,87): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,61): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,61): warning C4244:         with
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,61): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,61): warning C4244:             T=unsigned int
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,61): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,61): warning C4244:         and
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,61): warning C4244:         [
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,61): warning C4244:             T=float
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(63,61): warning C4244:         ]
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(70,36): warning C4244:  'argument': conversion from 'long' to 'float', possible loss of data
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(74,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(101,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(146,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(273,19): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(299,81): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  HighScores.cpp
+  MainMenuState.cpp
+  PauseMenu.cpp
+  Skeleton.cpp
+  State.cpp
+  main.cpp
+C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\GameState.cpp(362,19): warning C4018:  '<': signed/unsigned mismatch
+  Generating code
+  3 of 923 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MyFirstGame_Ever.vcxproj -> C:\Users\USER\OneDrive - KMITL\MyFirstGame_Ever\Release\MyFirstGame_Ever.exe
